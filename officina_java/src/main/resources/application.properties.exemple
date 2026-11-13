@@ -1,0 +1,6 @@
+quarkus.datasource.db-kind=postgresql
+quarkus.datasource.username=tuo_utente
+
+quarkus.datasource.password=tua_password
+quarkus.datasource.jdbc.url=jdbc:postgresql://localhost:5432/nome_db
+quarkus.hibernate-orm.database.generation=update
